@@ -1,12 +1,12 @@
-package com.wanari.specification.example.service;
+package com.mma.specification.example.service;
 
-import com.wanari.specification.example.controller.dto.UserDto;
-import com.wanari.specification.example.controller.dto.UserListRequest;
-import com.wanari.specification.example.controller.mapper.UserMapper;
-import com.wanari.specification.example.controller.specification.UserListSpecification;
-import com.wanari.specification.example.domain.User;
-import com.wanari.specification.example.repository.UserRepository;
-import com.wanari.specification.example.service.errors.ErrorResponse;
+import com.mma.specification.example.controller.dto.UserDto;
+import com.mma.specification.example.controller.dto.UserListRequest;
+import com.mma.specification.example.controller.mapper.UserMapper;
+import com.mma.specification.example.domain.User;
+import com.mma.specification.example.repository.UserRepository;
+import com.mma.specification.example.service.errors.ErrorResponse;
+import com.mma.specification.example.controller.specification.UserListSpecification;
 import io.vavr.control.Either;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;

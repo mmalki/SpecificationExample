@@ -1,7 +1,7 @@
-package com.wanari.specification.example.controller;
+package com.mma.specification.example.controller;
 
-import com.wanari.specification.example.controller.dto.UserListRequest;
-import com.wanari.specification.example.service.UserService;
+import com.mma.specification.example.controller.dto.UserListRequest;
+import com.mma.specification.example.service.UserService;
 import org.springframework.data.domain.Pageable;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.RequestMapping;

@@ -1,4 +1,4 @@
-package com.wanari.specification.example.controller.dto;
+package com.mma.specification.example.controller.dto;
 
 public class UserListRequest {
     public String search;

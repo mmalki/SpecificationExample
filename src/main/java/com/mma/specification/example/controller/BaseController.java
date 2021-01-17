@@ -1,6 +1,6 @@
-package com.wanari.specification.example.controller;
+package com.mma.specification.example.controller;
 
-import com.wanari.specification.example.service.errors.ErrorResponse;
+import com.mma.specification.example.service.errors.ErrorResponse;
 import org.springframework.http.ResponseEntity;
 
 public class BaseController {

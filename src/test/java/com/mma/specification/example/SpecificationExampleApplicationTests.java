@@ -1,4 +1,4 @@
-package com.wanari.specification.example;
+package com.mma.specification.example;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

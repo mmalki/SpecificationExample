@@ -1,8 +1,8 @@
-package com.wanari.specification.example.controller.specification;
+package com.mma.specification.example.controller.specification;
 
-import com.wanari.specification.example.controller.dto.UserListRequest;
-import com.wanari.specification.example.domain.Address;
-import com.wanari.specification.example.domain.User;
+import com.mma.specification.example.controller.dto.UserListRequest;
+import com.mma.specification.example.domain.Address;
+import com.mma.specification.example.domain.User;
 import org.springframework.data.jpa.domain.Specification;
 import org.springframework.stereotype.Component;
 

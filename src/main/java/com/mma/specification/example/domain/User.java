@@ -1,4 +1,4 @@
-package com.wanari.specification.example.domain;
+package com.mma.specification.example.domain;
 
 import javax.persistence.*;
 import java.util.List;

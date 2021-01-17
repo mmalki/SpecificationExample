@@ -1,4 +1,4 @@
-package com.wanari.specification.example.controller.specification;
+package com.mma.specification.example.controller.specification;
 
 import org.springframework.data.jpa.domain.Specification;
 
